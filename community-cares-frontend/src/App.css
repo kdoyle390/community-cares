@@ -29,6 +29,13 @@ peach #ffd8be
 
 .good-container {
   background-color: white;
-  
+  padding: 30px;
+}
+
+.good-card {
+  border-style: solid;
+  height: 200px;
+  width: 100px;
+  background-color: pink;
 }
 

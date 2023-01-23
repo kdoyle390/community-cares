@@ -1,6 +1,7 @@
+
 function GoodCard() {
     return(
-        <div>Hello from GoodCard</div>
+        <div className="good-card">Hello from GoodCard</div>
     )
 }
 
