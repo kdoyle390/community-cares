@@ -8,10 +8,27 @@ tan #ffeedd
 peach #ffd8be
 
 */
-
+/* In App */
 #app-name {
   color: #f8f7ff;
   padding: 10px;
   margin: 0px;
   width: 100px;
 }
+
+/* In Intro */
+#intro-section {
+  width: 100%;
+  background-color: #ffeedd;
+  padding: 25px;
+  margin: auto;
+  
+}
+
+/* Good Container */
+
+.good-container {
+  background-color: white;
+  
+}
+
